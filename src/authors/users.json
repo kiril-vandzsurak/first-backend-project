@@ -1,1 +1,28 @@
-[{"name":"Janos","surname":"lol","id":"36k8a8w0l8vgogor","email":"lol","birthday":1990,"avatar":"https://ui-avatars.com/api/?name=John+Doe","updatedAt":"2022-12-20T22:39:51.727Z"},{"name":"Darina","surname":"Vandzsurak","email":"lolololo","birthday":2008,"createdAt":"2022-12-20T22:44:21.786Z","id":"8oj2td4slbwtciaj"}]
+[
+  {
+    "category": "horror",
+    "title": "IT",
+    "cover": "https://ui-avatars.com/api/?name=John+Doe",
+    "readTime": { "value": 200, "unit": "minute" },
+    "author": {
+      "name": "Steven King",
+      "avatar": "https://ui-avatars.com/api/?name=John+Doe"
+    },
+    "content": "HTML",
+    "createdAt": "2022-12-21T15:25:49.427Z",
+    "id": "8oj2t7w0lbxt4e7o"
+  },
+  {
+    "category": "comedy",
+    "title": "Jack&Jill",
+    "cover": "https://picsum.photos/200/300",
+    "readTime": { "value": 200, "unit": "minute" },
+    "author": {
+      "name": "Richard Gored",
+      "avatar": "https://picsum.photos/200/300"
+    },
+    "content": "HTML",
+    "createdAt": "2022-12-21T15:26:46.382Z",
+    "id": "8oj2t7w0lbxt5m5q"
+  }
+]
