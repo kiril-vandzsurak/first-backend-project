@@ -24,5 +24,18 @@
     "content": "HTML",
     "createdAt": "2022-12-21T15:26:46.382Z",
     "id": "8oj2t7w0lbxt5m5q"
+  },
+  {
+    "category": "comedy",
+    "title": "Jack&Jill",
+    "cover": "https://picsum.photos/200/300",
+    "readTime": { "value": 200, "unit": "minute" },
+    "author": {
+      "name": "Richard Gored",
+      "avatar": "https://picsum.photos/200/300"
+    },
+    "content": "HTML",
+    "createdAt": "2022-12-21T15:26:46.382Z",
+    "id": "8oj2t7w0lbxt5m5q"
   }
 ]
